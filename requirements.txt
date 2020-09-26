@@ -1,0 +1,5 @@
+pandas
+ipyleaflet
+json
+numpy
+bqplot
