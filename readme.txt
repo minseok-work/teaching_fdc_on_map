@@ -1,0 +1,1 @@
+geojson file was simplified at: https://mapshaper.org/    with 3%
